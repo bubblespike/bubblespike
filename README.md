@@ -7,6 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🌈
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bubblespike&theme=vision_friendly_dark) 
   
 <!--
 **bubblespike/bubblespike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
